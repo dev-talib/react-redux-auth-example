@@ -1,0 +1,14 @@
+.Navbar{
+   display: flex;
+   justify-content: space-between;
+   background-color: white;
+   box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+   padding: 20px;
+}
+.Navbar a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px;
+}
